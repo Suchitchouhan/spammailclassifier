@@ -1,0 +1,1 @@
+It can classify the mail/text message whether its spam or not according training data. the trining data must be in folder and spam file should be name as spam.txt and not spam file should be name as ham .it can predict data according to your training data 
